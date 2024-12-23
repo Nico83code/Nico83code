@@ -14,7 +14,13 @@ I'm Nico a Front End Developer. I spend most of time coding.
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
-[![StyledComponents Badge](https://img.shields.io/badge/-Styled&nbsp;Components-DB7093?style=for-the-badge&labelColor=black&logo=styledcomponents&logoColor=DB7093)](#)
+[![StyledComponents Badge](https://img.shields.io/badge/-Styled Components-DB7093?style=for-the-badge =black =styledcomponents =DB7093)](#)
 [![Next.js Badge](https://img.shields.io/badge/-Next.js-F5AE29?style=for-the-badge&labelColor=black&logo=next.js&logoColor=F5AE29)](#)
 [![ThreeJS Badge](https://img.shields.io/badge/-ThreeJS-A9225C?style=for-the-badge&labelColor=black&logo=three.js&logoColor=A9225C)](#)
 [![Cypress Badge](https://img.shields.io/badge/-Cypress-83B81A?style=for-the-badge&labelColor=black&logo=cypress&logoColor=83B81A)](#)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nico83code/nico83code/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nico83code/nico83code/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/nico83code/nico83code/output/github-snake.svg" />
+</picture>
